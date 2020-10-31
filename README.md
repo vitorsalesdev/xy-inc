@@ -1,6 +1,8 @@
 # XY POIs Location
-📜	Esse é um projeto feito como teste da  Zup Innovation. Tem como objetivo disponibilizar três tipos de serviço.
-### Atenção: apenas os serviços 1 e 2 foram implementados nesta versão.
+
+### 📜Atenção: apenas os serviços 1 e 2 foram implementados nesta versão.	
+Esse é um projeto feito como teste da  Zup Innovation. Tem como objetivo disponibilizar três tipos de serviço.
+
  - Serviço 1 - Cadastrar pontos de interesse, com 3 atributos: Nome do POI, coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo). Os POIs devem ser armazenados em uma base de dados. 
 
 - Serviço 2 - Listar todos os POIs cadastrados. 
@@ -30,4 +32,3 @@ java -jar xylocation.jar
 
 
 ## 📈 Exemplo de uso
-
