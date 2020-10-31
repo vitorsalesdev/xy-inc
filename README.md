@@ -10,17 +10,13 @@ Esse é um projeto feito como teste da  Zup Innovation. Tem como objetivo dispon
 - Serviço 3 - Listar POIs por proximidade. Este serviço recebe uma coordenada X e uma coordenada Y, especificando um ponto de referência, como uma distância máxima (d-max) em metros. O serviço retorna todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
 
 
-
-
-
 ## 🛠 Como executar o projeto?
-
 
 ### Pré-requisitos:
 
 -   [JDK 8](https://adoptopenjdk.net/) instalado em seu computador.
 -   Um cliente para conectar com o Banco de dados MySQL, exemplo:  [Xaamp](https://www.apachefriends.org/pt_br/download.html).
--   Cliente para realizar requisições REST:  Recomendo o [Postman](https://www.getpostman.com/)  ou  [Swagger](http://localhost:8080/swagger-ui.html#/)(acessível para iniciar após iniciar a aplicar).
+-   Cliente para realizar requisições REST:  Recomendo o [Postman](https://www.getpostman.com/)  ou  [Swagger](http://localhost:8080/swagger-ui.html#/)(acessível para iniciar após iniciar a aplicação).
 - Clonar o repositório através do comando:
 git clone https://github.com/vitorsalesdev/xy-inc.git
 
