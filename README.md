@@ -15,7 +15,7 @@
 
 -   [JDK 8](https://adoptopenjdk.net/) instalado em seu computador.
 -   Um cliente para conectar com o Banco de dados MySQL, exemplo:  [Xaamp](https://www.apachefriends.org/pt_br/download.html).
--   Cliente para realizar requisições REST:  Recomendo o [Postman](https://www.getpostman.com/)  ou  [Swagger](http://localhost:8080/swagger-ui.html#/)(acessível para iniciar após iniciar a aplicação).
+-   Cliente para realizar requisições REST:  Recomendo o [Postman](https://www.getpostman.com/)  ou  [Swagger](http://localhost:8080/swagger-ui.html#/)(acessível após iniciar a aplicação).
 - Clonar o repositório através do comando:
 git clone https://github.com/vitorsalesdev/xy-inc.git
 
