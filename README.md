@@ -19,9 +19,9 @@
 - Clonar o repositório através do comando:
 git clone https://github.com/vitorsalesdev/xy-inc.git
 
-  ### Execução:
+ ### Execução:
  - Iniciar o cliente para conectar com o MySQL
-- Acessar a pasta do projeto(xy-poi)
+- Acessar a pasta do projeto(xy-poi) pelo terminal.
 - Executar o seguinte comando no terminal:
 java -jar xy-poi.jar
 
@@ -43,5 +43,3 @@ java -jar xy-poi.jar
 - - Para utilizar esse serviço é necessário enviar um Json contendo uma localização de referência e distancia máxima até os pontos de interesse . O  Json deve conter x(coordenada), y(coordenada) e dmax(distância máxima). Utilize POST e o Endpoint http://localhost:8080/localizar. Veja o exemplo:
 
 <a href="https://imgur.com/ZKZb1jq"><img src="https://i.imgur.com/ZKZb1jq.png" title="source: imgur.com" /></a>
-
-Funções complementares da aplicação serão no video a seguir:
