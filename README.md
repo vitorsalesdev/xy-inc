@@ -43,3 +43,7 @@ java -jar xy-poi.jar
 - - Para utilizar esse serviço é necessário enviar um Json contendo uma localização de referência e distancia máxima até os pontos de interesse . O  Json deve conter x(coordenada), y(coordenada) e dmax(distância máxima). Utilize POST e o Endpoint http://localhost:8080/localizar. Veja o exemplo:
 
 <a href="https://imgur.com/ZKZb1jq"><img src="https://i.imgur.com/ZKZb1jq.png" title="source: imgur.com" /></a>
+
+### Veja abaixo um vídeo demonstrando o funcionamento da aplicação:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWvu0afOJYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
