@@ -29,7 +29,7 @@ java -jar xy-poi.jar
 ## 📈 Exemplo de uso
 ### Serviço 1 - Cadastrar um ponto de interesse
 
-- Para utilizar esse para serviço é preciso enviar através do cliente de requisições um Json contendo nome, x(coordenada), y(coordenada). Utilize POST e o Endpoint http://localhost:8080/cadastro. Veja o exemplo a seguir:
+- Para utilizar esse serviço é preciso enviar através do cliente de requisições um Json contendo nome, x(coordenada), y(coordenada). Utilize POST e o Endpoint http://localhost:8080/cadastro. Veja o exemplo a seguir:
 
 <a href="https://imgur.com/At2lwMy"><img src="https://i.imgur.com/At2lwMy.png" title="source: imgur.com" /></a>
 
