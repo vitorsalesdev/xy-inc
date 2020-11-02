@@ -44,5 +44,5 @@ java -jar xy-poi.jar
 
 <a href="https://imgur.com/ZKZb1jq"><img src="https://i.imgur.com/ZKZb1jq.png" title="source: imgur.com" /></a>
 
-### Veja abaixo um vídeo demonstrando o funcionamento da aplicação:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OWvu0afOJYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Clique na imagem abaixo para assistir um vídeo demonstrando o funcionamento da aplicação:
+[![Alt text](https://img.youtube.com/vi/OWvu0afOJYE/0.jpg)](https://www.youtube.com/watch?v=OWvu0afOJYE)
