@@ -1,4 +1,4 @@
-# XY POIs Location
+# Point of Interest Location
 
 📜 Esse é um projeto feito como teste da  Zup Innovation. Tem como objetivo disponibilizar três tipos de serviço.
 
